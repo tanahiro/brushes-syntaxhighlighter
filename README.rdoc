@@ -1,0 +1,7 @@
+= Brushes for Syntaxhighlighter
+
+brushes for {Syntaxhighlighter}[http://alexgorbatchev.com/SyntaxHighlighter/]
+
+* verilog: shBrushVerilog.js
+* LaTeX:   shBrushLatex.js
+

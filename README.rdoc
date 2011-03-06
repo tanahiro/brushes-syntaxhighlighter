@@ -4,4 +4,6 @@ brushes for {Syntaxhighlighter}[http://alexgorbatchev.com/SyntaxHighlighter/]
 
 * verilog: shBrushVerilog.js
 * LaTeX:   shBrushLatex.js
+* BibTeX:  shBrushBibtex.js
+* gnuplot: shBrushGnuplot.js
 
